@@ -1,0 +1,15 @@
+/* * {
+  color: red;
+} */
+/* .class2 > p {
+  color: blue;
+} */
+/* p.class1 {
+  color: blueviolet;
+} */
+/* .class1.class2 {
+  color: red;
+} */
+p ~ p {
+  color: red;
+}
