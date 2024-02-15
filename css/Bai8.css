@@ -1,0 +1,15 @@
+p:hover {
+  color: red;
+}
+#active:active {
+  color: blue;
+}
+#link:active {
+  color: blue;
+}
+#visited:active {
+  color: red;
+}
+#dautrang:target {
+  color: aqua;
+}
