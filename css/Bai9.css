@@ -1,0 +1,6 @@
+/* h2:first-child {
+  color: red;
+} */
+div h2 {
+  color: red;
+}

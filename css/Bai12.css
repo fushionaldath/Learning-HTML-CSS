@@ -1,0 +1,13 @@
+* {
+  color: red !important;
+}
+h2 {
+  color: blue;
+  /* ghi đè lên * */
+}
+.tieude2 {
+  color: aqua;
+}
+#tieude {
+  color: chocolate;
+}

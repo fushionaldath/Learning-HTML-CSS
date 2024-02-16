@@ -1,0 +1,6 @@
+/* h2:first-of-type {
+  color: red;
+} */
+p:not(#d2) {
+  color: red;
+}
