@@ -1,0 +1,10 @@
+h2 {
+  border: 5px outset red;
+  /* độ dày viền-kiểu viền-màu viền */
+  width: 80px;
+  height: 50px;
+  border-width: 5px;
+  border-style: dotted;
+  border-color: aqua;
+  border-radius: 20px;
+}

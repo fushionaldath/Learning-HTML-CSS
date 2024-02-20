@@ -1,0 +1,13 @@
+h2 {
+  height: 5px;
+
+  padding: 15px;
+  /* toàn thể */
+  padding: 10px 5px;
+  /* trên dưới-trái phải */
+  padding: 5px 10px 15px;
+  /* trên-trái phải-dưới */
+  padding: 1px 2px 3px 4px;
+  /* trên-phải-dưới-trái */
+  margin: 10px;
+}
